@@ -1,4 +1,4 @@
- <center><h2><SURAJ BELBASE/></h2></center>
+<h2><SURAJ BELBASE/></h2>
  <hr>
 
 - 👋 Hi, I’m @surajbelbase. A geek, passionate to learn and try on new technology.
