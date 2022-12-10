@@ -1,3 +1,6 @@
+ <center><h2><SURAJ BELBASE/></h2></center>
+ <hr>
+
 - 👋 Hi, I’m @surajbelbase. A geek, passionate to learn and try on new technology.
 - 👀 I just love java. 
 - 🌱 I’m currently learning python and javascript because why not?
