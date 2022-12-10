@@ -1,8 +1,8 @@
 
 
-<h2><SURAJ BELBASE/></h2>
 
-<hr>
+
+<h2>                             < SURAJ BELBASE/></h2>
 
 
 <a href="https://www.linkedin.com/in/suraj-belbase-518699213/" target="_blank">
@@ -25,7 +25,7 @@
 <br>
 - 👋 Hi, I’m @surajbelbase. A geek, passionate to learn and try on new technology.<br>
 - 👀 I just love java. <br>
-- 🌱 I’m currently learning python and javascript because why not?<br>
+- 🌱 I’m currently learning python and javascript 🤟<br>
 - 📫 Reach out to me --> surajblb7979@gmail.com<br>
 - 💬 I am more than happy to answer anything i know(or maybe know little bit) and learn what i don't know.<br>
 
