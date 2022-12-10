@@ -5,15 +5,15 @@
 <hr>
 
 
-<a href=" https://www.linkedin.com/in/suraj-belbase-518699213/ ">
+<a href="https://www.linkedin.com/in/suraj-belbase-518699213/">
 <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
 </a>
 
-<a href=" https://twitter.com/belbase_suraj">
+<a href="https://twitter.com/belbase_suraj">
 <img align="left" alt="Mitul's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/89010692/206869152-4893820f-a842-4109-9ef0-567d95d2a23b.png"/>
 </a>
 
-<a href=" https://www.instagram.com/suraj.belbase/">
+<a href="https://www.instagram.com/suraj.belbase/">
 <img align="left" alt="Suraj instagram" width="22px" src="https://user-images.githubusercontent.com/89010692/206869281-c195ba46-0000-41fc-b70f-5fd04752688a.png"/>
 </a>
 
