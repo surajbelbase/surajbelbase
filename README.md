@@ -6,11 +6,11 @@
 
 
 <a href="https://www.linkedin.com/in/suraj-belbase-518699213/" target="_blank">
-<img align="left" alt="Mitul's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](http://www.w3.org/2000/svg)"/>
+<img align="left" alt="Suraj's LinkedIN" width="22px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](http://www.w3.org/2000/svg)"/>
 </a>
 
 <a href="https://twitter.com/belbase_suraj" target="_blank">
-<img align="left" alt="Mitul's LinkedIN" width="22px" src="https://user-images.githubusercontent.com/89010692/206869152-4893820f-a842-4109-9ef0-567d95d2a23b.png"/>
+<img align="left" alt="Suraj's twitter" width="22px" src="https://user-images.githubusercontent.com/89010692/206869152-4893820f-a842-4109-9ef0-567d95d2a23b.png"/>
 </a>
 
 <a href="https://www.instagram.com/suraj.belbase/" target="_blank">
@@ -18,7 +18,7 @@
 </a>
 
 <a href="https://auth.geeksforgeeks.org/user/belbasesuraj27/" target="_blank">
-<img align="left" alt="Suraj instagram" width="22px" src="https://user-images.githubusercontent.com/89010692/206869397-6ee318c3-adca-4509-9c90-646972c6d845.png"/>
+<img align="left" alt="Suraj's geeksforgeeks" width="22px" src="https://user-images.githubusercontent.com/89010692/206869397-6ee318c3-adca-4509-9c90-646972c6d845.png"/>
 </a>
 <br>
 <br>
