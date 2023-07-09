@@ -6,7 +6,7 @@
 
 
 <a href="https://www.linkedin.com/in/suraj-belbase-518699213/" target="_blank">
-<img align="left" alt="Suraj's LinkedIN" width="22px" src="http://www.w3.org/2000/svg"/>
+<img align="left" alt="Suraj's LinkedIN" width="22px" src="[http://www.w3.org/2000/svg](https://i.stack.imgur.com/gVE0j.png)"/>
 </a>
 
 <a href="https://twitter.com/belbase_suraj" target="_blank">
