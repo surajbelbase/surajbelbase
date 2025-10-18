@@ -23,12 +23,25 @@
 <br>
 <br>
 <br>
-- 👋 Hi, I’m @surajbelbase. A geek, passionate to learn and try on new technology.<br>
-- 👀 I just love java. <br>
-- 🌱 I’m currently learning python and javascript 🤟<br>
-- 📫 Reach out to me --> surajblb7979@gmail.com<br>
-- 💬 I am more than happy to answer anything i know(or maybe know little bit) and learn what i don't know.<br>
+## 🚀 About Me
 
+### I’m an aspiring Data Engineer with hands-on experience in application development and data-centric projects. My journey combines a strong foundation in coding with a growing passion for building robust, scalable data systems.
+
+💡 I’ve worked on projects involving data pipelines, AWS & Big Data tools, and full-stack development, constantly expanding my technical toolkit across modern technologies.
+
+🧠 I believe in learning by doing — always experimenting, refining, and staying curious about how data and infrastructure power intelligent systems.
+
+🤝 Open to collaboration on real-world data engineering or analytics projects, and always excited to connect with people who share the same drive for building and problem-solving.
+---
+🧩 What Defines Me
+
+🔹 Always learning, always building.
+
+🔹 Hands-on with Python, SQL, Docker, AWS, ETL Pipelines, and Big Data tools.
+
+🔹 Experienced in development and continuously transitioning deeper into data engineering.
+
+🔹 Eager to collaborate on challenging projects and explore new technologies.
 <hr>
 
 <!---
