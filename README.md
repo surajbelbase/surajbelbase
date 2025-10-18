@@ -31,9 +31,9 @@
 
 🧠 I believe in learning by doing — always experimenting, refining, and staying curious about how data and infrastructure power intelligent systems.
 
-🤝 Open to collaboration on real-world data engineering or analytics projects, and always excited to connect with people who share the same drive for building and problem-solving.
+#### 🤝 Open to collaboration on real-world data engineering or analytics projects, and always excited to connect with people who share the same drive for building and problem-solving.
 ---
-🧩 What Defines Me
+### 🧩 What Defines Me
 
 🔹 Always learning, always building.
 
